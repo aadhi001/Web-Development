@@ -1,0 +1,38 @@
+td
+{
+  background-color: black;
+  height : 300px;
+  width : 150px;
+  border: 6px solid white;
+}
+
+h1
+{
+  font-family: 'Teko', sans-serif;
+  text-align: center;
+}
+
+.art
+{
+  margin: auto;
+}
+
+#one
+{
+  background-color:#E63946;
+}
+
+#two
+{
+  background-color: #F1FAEE;
+}
+
+#three
+{
+  background-color: #A8DADC;
+}
+
+#four
+{
+  background-color: #457B9D;
+}

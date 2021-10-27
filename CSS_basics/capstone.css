@@ -1,0 +1,38 @@
+h1
+{
+  text-align: center;
+}
+
+h2
+{
+  text-align: center;
+}
+
+p
+{
+  text-align: center;
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top: 5%;
+}
+
+form
+{
+  text-align: center;
+}
+
+body
+{
+  border : 50px solid #457B9D;
+  background-color: #F1FAEE;
+  margin: 0px;
+  border-top: 0px;
+}
+ #sub
+ {
+   height : 50px;
+   width: 100px;
+   margin : 10px;
+   border-radius: 25px;
+   background-color: gold;
+ }
